@@ -38,7 +38,7 @@ nav {
 
                 &:hover {
                     transform: scale(1.1) translateX(2px) translateY(-2px);
-                    color: darkorange;
+                    color: orangered;
                     text-shadow: 0 5px 5px moccasin;
                 }
             }
